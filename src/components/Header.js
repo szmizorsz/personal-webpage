@@ -2,7 +2,7 @@ import React from 'react'
 
 function Header() {
     return (
-        <div>
+        <div class="flex justify-center">
             <nav>
                 <div>
                     <a href="/"></a>
