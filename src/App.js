@@ -8,13 +8,19 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <div>
+    <div class="bg-gray-700 text-white font-serif">
       <Header />
       <About />
-      <Projects />
-      <Posts />
-      <Contact />
-      <Footer />
+      <div class="grid grid-cols-6">
+        <div class="col-span-1"></div>
+        <div class="col-span-4">
+          <Projects />
+          <Posts />
+          <Contact />
+          <Footer />
+        </div>
+        <div class="col-span-1"></div>
+      </div>
     </div>
   )
 }

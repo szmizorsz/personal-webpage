@@ -1,22 +1,19 @@
 import React from 'react'
 
-function ProjectCard({ title, description, paragraphs }) {
+function ProjectCard({ title, link, paragraphs }) {
     return (
-        <div>
-            <div>
-                {title}
-            </div>
-            <div>
-                {description}
+        <div class="pl-5 pr-5 pb-3 m-3 bg-gray-600 rounded shadow-md">
+            <div class="pt-10 pb-5 underline text-lg">
+                <a href={link} target="_blank" rel="noopener noreferrer">{title}</a>
             </div>
             <div>
                 {paragraphs.map((paragraph) =>
-                    <div>
+                    <div class="pb-2 text-gray-300 text-justify">
                         {paragraph.text}
                     </div>
                 )}
             </div>
-        </div>
+        </div >
     )
 }
 
