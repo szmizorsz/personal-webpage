@@ -1,32 +1,36 @@
 import React from 'react'
+import logo from '../images/logo.jpg'
 
 function Header() {
     return (
-        <div class="flex justify-center pt-14 pb-14">
-            <nav>
-                <div>
-                    <a href="/">
-                        <h6 class="text-2xl">Szabolcs Szentes</h6>
-                    </a>
-                </div>
-            </nav>
-            <div>
-                <a href="#" class="mr-10">
+        <div class="flex justify-center pt-6 pb-6 sticky top-0 z-50 bg-gray-800">
+            <div class="relative">
+                <a href="/">
+                    <img src={logo} alt="logo" width="40"></img>
+
+                </a>
+            </div>
+            <div class="ml-20 mt-3 text-xl">
+                <a href="#projects" class="mr-16">
                     <span>
                         Projects
                     </span>
                 </a>
-                <a href="#" class="mr-10">
+                <a href="#posts" class="mr-16">
                     <span>
-                        Blog
+                        Posts
                     </span>
                 </a>
-                <a href="#">
+                <a href="#" class="mr-16">
                     <span>
                         About
                     </span>
                 </a>
-
+                <a href="#">
+                    <span>
+                        Contact
+                    </span>
+                </a>
             </div>
         </div>
     )

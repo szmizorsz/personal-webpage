@@ -41,7 +41,7 @@ function Posts() {
     ]
     return (
         <div class="pt-16">
-            <h6 class="flex justify-start pb-5 border-b-4 mb-10 text-yellow-400 text-3xl">
+            <h6 id="posts" class="flex justify-start pb-5 border-b-4 mb-10 text-yellow-400 text-3xl">
                 Posts
             </h6>
             {posts.map((post) =>

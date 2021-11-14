@@ -3,7 +3,7 @@ import profile_pic from "../images/profile_pic.jpg";
 
 function About() {
     return (
-        <div class="bg-gray-800 grid grid-cols-6">
+        <div class="bg-gray-900 grid grid-cols-6">
             <div class="col-span-1"></div>
             <div class="col-span-2">
                 <div class="text-5xl pt-20 pb-20">

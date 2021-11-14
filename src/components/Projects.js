@@ -73,7 +73,8 @@ function Projects() {
         }
     ]
     return (
-        <div class="pt-16">
+        <div id="projects" >
+            <div class="pt-16"></div>
             <h6 class="flex justify-start pb-5 mb-2 border-b-4 text-yellow-400 text-3xl">
                 Projects
             </h6>
