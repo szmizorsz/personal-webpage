@@ -21,12 +21,12 @@ function Header() {
                         Posts
                     </span>
                 </a>
-                <a href="#" class="mr-16">
+                <a href="#about" class="mr-16">
                     <span>
                         About
                     </span>
                 </a>
-                <a href="#">
+                <a href="#contact">
                     <span>
                         Contact
                     </span>

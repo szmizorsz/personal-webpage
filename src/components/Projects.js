@@ -18,9 +18,6 @@ function Projects() {
                 {
                     text: "Speaking of technologies, the exchange is built on the non fungible token standards (ERC721 and ERC1155) using the industry standard openzeppelin library. Contracts are indexed by thegraph. \n" +
                         "NFTs are stored on IPFS. Hosting is truly decentralised with Fleek and ENS."
-                },
-                {
-                    text: "This is my latest hobby project that I created for experimenting technologies like theGraph, cross chain capabilites and some brand new concepts in the space."
                 }
             ]
         },
@@ -38,9 +35,6 @@ function Projects() {
                 },
                 {
                     text: "Technology stack of the project is based on openzeppelin contracts, react, IPFS and decentralised hosting with Fleek, ENS and contract deployment on Ethereum Ropsten testnet."
-                },
-                {
-                    text: "I created this platform as a hobby project during my journey of learning blockchain based development."
                 }
             ]
         },
@@ -73,8 +67,7 @@ function Projects() {
         }
     ]
     return (
-        <div id="projects" >
-            <div class="pt-16"></div>
+        <div id="projects" class="pt-16">
             <h6 class="flex justify-start pb-5 mb-2 border-b-4 text-yellow-400 text-3xl">
                 Projects
             </h6>
