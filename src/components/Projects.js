@@ -16,7 +16,7 @@ function Projects() {
                     text: "Trading fractions is affordable to anyone with the exchange's cross chain capabilities. Built on Polygon and Binance Smart Chain the users have the possibility to trade where it is the cheapest."
                 },
                 {
-                    text: "Speaking of technologies, the exchange is built on the non fungible token standards (ERC721 and ERC1155) using the industry standard openzeppelin library. Contracts are indexed by thegraph. \n" +
+                    text: "Speaking of technologies, the exchange is built on the non fungible token standards (ERC721 and ERC1155) using the industry standard openzeppelin library. Contracts are indexed by the Graph. \n" +
                         "NFTs are stored on IPFS. Hosting is truly decentralised with Fleek and ENS."
                 }
             ]
@@ -27,7 +27,7 @@ function Projects() {
             paragraphs: [
                 {
                     text: "The platform's goal is to bring real estates onto the blockchain as non fungible tokens. After a registration process, owners can leverage the immutable nature of blockchains by uploading photos of the property to IPFS and storing their hashes on-chain. \n" +
-                        "Those photos can be used to prove certain states of the property have already happened like reconstructions."
+                        "Those photos can be used to prove certain states of the property that have already happened like reconstructions."
                 },
                 {
                     text: "There is a selling workflow for real estates that mimics the current off-chain processes. Owners can also use their real estate to get a mortgage against. \n" +

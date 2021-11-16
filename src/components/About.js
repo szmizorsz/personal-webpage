@@ -7,23 +7,39 @@ function About() {
                 About me
             </h6>
             <p>
-                I am a software engineer passionate about iOS development, blockchains and web development. Over the course of the last two years, which I've spent as a freelance contractor, I worked both with clients and developers from multiple countries. The experiences I've gained encompass various facets of software engineering, including the development of a complex new product from the first line of code as well as smaller debugging jobs and updates to existing iOS apps.
+                I am a software engineer passionate about blockchain technologies. Over the course of the last many years that I've spent as a software engineer,
+                I worked both with clients and developers from multiple countries. The experiences I've gained encompass various facets of software engineering,
+                including the development of complex systems, architecting data processing pipelines and in depth system analysis.
             </p>
+            <br />
             <p>
-                These experiences endowed me with invaluable lessons about intercultural work relationships, communicating with clients, translating their requirements into code and functioning products, estimating reasonable time-frames for new features, and of course, writing clean, readable, and robust code that passes both UI and unit tests and the ultimate test of real-life users interacting with it.
+                These experiences endowed me with invaluable lessons about intercultural work relationships, communicating with clients,
+                translating their requirements into code and functioning products, estimating reasonable time-frames for new features,
+                and of course, writing clean, readable, and robust code that passes both UI and unit tests and the ultimate test of real-life users interacting with it.
             </p>
+            <br />
             <p>
-                As a freelancer, I often have the freedom and responsibility to choose the technology/architecture/frameworks for an iOS application. By doing this, I learned multiple things about the various trade-offs we all have to make as software developers.
+                In the last four years I got excited about the potential and role of blockchain technologies in our society and future.
+                I started my journey in the space with learning on different platforms like IvanOnTech and EatTheBlocks.
+                Along the way I created my hobby projects where I could play with many dominant technologies in this industry nowadays.
+                After gaining valuable insight of these technologies I made my contribution to the community by sharing my experience on Medium with Coinmonks.
+                Once I felt ready to step out I started my Dapp developer carrier as a freelancer that is my passion nowadays.
             </p>
+            <br />
             <p>
-                Outside technology and software engineering, I am a student of UI/UX design, usability and psychology. I have a personal interest in culture, society and history (which is amplified by a degree in law), and mainly the transformative power digital products have on all of these fields.
-                When I'm not coding or reading I try to travel as much as possible, visiting far off corners of the world and trying to understand what it means to be human.
+                Outside technology and software engineering, I am a proud dad, an enthusiastic runner and an occasional yoga practitioner and maybe a digital nomad someday.
             </p>
+            <br />
             <p>
                 I think we are extremely lucky to be alive in such a unique point in history where the code we write and the products we engineer can positively impact the lives of millions.
             </p>
-
-
+            <div class="mt-10 flex justify-center items-center">
+                <div class="bg-blue-400 w-1/12 text-center h-8 text-lg">
+                    <a href="../CV.pdf" target="_blank" rel="noopener noreferrer">
+                        Resume
+                    </a>
+                </div>
+            </div>
         </div>
     )
 }

@@ -10,8 +10,8 @@ function Summary() {
                     I'm Szabolcs Szentes.
                 </div>
                 <div class="pb-10 text-xl text-gray-400">
-                    I'm a software developer.<br />
-                    First and foremost, this website is a collection of my projects and writings.<br />
+                    I'm a software developer and blockchain enthusiast.<br />
+                    First and foremost, this website is a collection of my projects and writings mostly related to blockchain.<br />
                     You will also find some facts about me along with my resume.<br />
                     Have a look around. You're welcome here.
                 </div>
