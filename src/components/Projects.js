@@ -54,7 +54,7 @@ function Projects() {
         },
         {
             title: "Moonwolf.io",
-            link: "https://www.ethemerals.com/",
+            link: "https://moonwolf.io/",
             paragraphs: [
                 {
                     text: "Moonwolf is a project with a deflationary, store of value token and an ecosystem around it with monthly NFT sales. NFTs are high quality art works from Drippies built around wolf themes. \n" +
@@ -62,6 +62,15 @@ function Projects() {
                 },
                 {
                     text: "I helped this project during its early stages with some proof of concept tasks. I created NFT repositories and farming possibilities."
+                }
+            ]
+        },
+        {
+            title: "Token swap",
+            link: "https://github.com/szmizorsz/token-swap",
+            paragraphs: [
+                {
+                    text: "Token swap is playground for building an abstarction over UniswapV2 like Dexs where a smart contract can route a trade towards the cheapest exchange."
                 }
             ]
         }

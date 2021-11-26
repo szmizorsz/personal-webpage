@@ -17,7 +17,7 @@ function Summary() {
                 </div>
             </div>
             <div class="col-span-2 flex justify-center">
-                <img src={profile_pic} alt="profile picture" width="300"></img>
+                <img src={profile_pic} alt="profile" width="300"></img>
             </div>
             <div class="col-span-1"></div>
         </div>
