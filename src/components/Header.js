@@ -10,18 +10,18 @@ function Header() {
 
                 </a>
             </div>
-            <div class="ml-20 mt-3 text-xl">
-                <a href="#projects" class="mr-16">
+            <div class="ml-5 md:ml-20 mt-3 md:text-xl">
+                <a href="#projects" class="mr-5 md:mr-16">
                     <span>
                         Projects
                     </span>
                 </a>
-                <a href="#posts" class="mr-16">
+                <a href="#posts" class="mr-5 md:mr-16">
                     <span>
                         Posts
                     </span>
                 </a>
-                <a href="#about" class="mr-16">
+                <a href="#about" class="mr-5 md:mr-16">
                     <span>
                         About
                     </span>

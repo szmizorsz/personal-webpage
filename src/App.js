@@ -12,7 +12,7 @@ function App() {
     <div class="bg-gray-700 text-white font-serif">
       <Header />
       <Summary />
-      <div class="grid grid-cols-6">
+      <div class="md:grid md:grid-cols-6">
         <div class="col-span-1"></div>
         <div class="col-span-4">
           <Projects />

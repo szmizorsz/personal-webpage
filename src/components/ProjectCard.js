@@ -8,7 +8,7 @@ function ProjectCard({ title, link, paragraphs }) {
             </div>
             <div>
                 {paragraphs.map((paragraph) =>
-                    <div class="pb-2 text-gray-300 text-justify">
+                    <div class="pb-2 text-gray-300 text-justify text-sm lg:text-base">
                         {paragraph.text}
                     </div>
                 )}

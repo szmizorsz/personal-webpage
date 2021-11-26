@@ -67,11 +67,11 @@ function Projects() {
         }
     ]
     return (
-        <div id="projects" class="pt-16">
+        <div id="projects" class="pt-5 md:pt-16">
             <h6 class="flex justify-start pb-5 mb-2 border-b-4 text-yellow-400 text-3xl">
                 Projects
             </h6>
-            <div class="grid grid-cols-2">
+            <div class="sm:grid sm:grid-cols-2">
                 {projects.map((project) =>
                     <div class="col-span-1">
                         <ProjectCard title={project.title} link={project.link} paragraphs={project.paragraphs} />

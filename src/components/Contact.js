@@ -5,7 +5,7 @@ import medium from "../images/medium.jpeg";
 
 function Contact() {
     return (
-        <div id="contact" class="pt-16 pb-16">
+        <div id="contact" class="pt-5 md:pt-16 pb-16">
             <h6 class="flex justify-start pb-5 border-b-4 mb-10 text-yellow-400 text-3xl">
                 Contact
             </h6>
