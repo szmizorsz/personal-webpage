@@ -70,7 +70,7 @@ function Projects() {
             link: "https://github.com/szmizorsz/token-swap",
             paragraphs: [
                 {
-                    text: "Token swap is a playground for building an abstraction over UniswapV2 like Dexs where a smart contract can route a trade towards the cheapest exchange."
+                    text: "Token swap is a hobby project for building an abstraction on the top of DEXs with UniswapV2's interface where a smart contract can route a trade towards the cheapest exchange like a DEX aggregator."
                 }
             ]
         }
