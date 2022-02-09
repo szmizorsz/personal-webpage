@@ -73,6 +73,15 @@ function Projects() {
                     text: "Token swap is a hobby project for building an abstraction on the top of DEXs with UniswapV2's interface where a smart contract can route a trade towards the cheapest exchange like a DEX aggregator."
                 }
             ]
+        },
+        {
+            title: "CharacterHub",
+            link: "https://showcase.ethglobal.com/roadtoweb3/characterhub",
+            paragraphs: [
+                {
+                    text: "CharacterHub is a hackaton project that was built during the EthGlobal Road to Web3 hackaton. This is a custom bridge between Ethereum and L2s for gaming characters (NFTs)."
+                }
+            ]
         }
     ]
     return (
