@@ -91,6 +91,15 @@ function Projects() {
           text: "Heroic Story is a collaborative, community-owned worldbuilding game powered by smart contracts and NFTs for story tellers in role-playing games. I helped this project to start building one of their core platform where users can vote on proposals of the future of their collaborative world."
         }
       ]
+    },
+    {
+      title: "Web3 Onboarding As a Service",
+      link: "https://w3oas.vercel.app/",
+      paragraphs: [
+        {
+          text: "An educational project with the goal to create a full-stack technology template for semi-decentralized application. Meanwhile solving a real business case, creating a web3 onboarding service for existing Discord communities. "
+        }
+      ]
     }
   ]
   return (

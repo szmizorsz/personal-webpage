@@ -37,6 +37,16 @@ function Posts() {
             title: "UI, Deployment, Hosting, Decentralisation",
             date: "Oct 12, 2021",
             link: "https://medium.com/@szmizorsz/ui-deployment-hosting-decentralisation-d1b2d4c41f87"
+        },
+        {
+            title: "Full-stack web3 for semi-DAPPs: web3 onboarding as a service",
+            date: "Jun 5, 2022",
+            link: "https://medium.com/coinmonks/full-stack-web3-for-semi-dapps-web3-onboarding-as-a-service-cfbb70fa9d54"
+        },
+        {
+            title: "Web3 onboarding as a service: technical details",
+            date: "Jun 5, 2022",
+            link: "https://medium.com/coinmonks/web3-onboarding-as-a-service-technical-details-f9f19b8daba5"
         }
     ]
     return (
